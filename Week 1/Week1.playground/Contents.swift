@@ -12,8 +12,5 @@ func multiplyPattern(number: Int) -> String {
 
 func createArt() {
     for i in 1...10 {
-        print(multiplyPattern(number: i))
     }
 }
-
-createArt()
